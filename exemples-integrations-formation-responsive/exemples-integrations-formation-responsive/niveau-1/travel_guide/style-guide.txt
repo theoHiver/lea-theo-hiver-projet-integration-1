@@ -1,3 +1,0 @@
-GoggleFont
-Roboto: 300, 400, 500, 700
-Playfair Display : 400
